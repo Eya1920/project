@@ -1,0 +1,53 @@
+.body {
+    
+  }
+.entete { display: grid;
+    text-align: center ;
+    background-color: #ebbcbc;
+    grid-template-rows: 3px 10px 20px;
+   
+}
+.entete h1{  font-size: 1em;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;}
+
+.beautes {
+    opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+}
+.btn btn-dark{
+  margin-bottom: 3rem !important;
+}
+.xoxo  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+.navbar navbar-expand-lg navbar-light bg-light {background-color: black imo;}
+  
+  .secondly h1 {  font-size: 1em;
+    font-family: 'Courier New', monospace;
+     display: grid;
+        text-align: center ;
+        background-color: #ebbcbc;
+        grid-template-rows: 3px 10px 20px;
+        font-weight: bold;
+       
+    }
+.troisieme h1 { display: grid;
+  text-align: center ;
+  background-color: #ebbcbc;
+  grid-template-rows: 3px 10px 20px;
+  font-size: 1em;
+  font-family: 'Courier New', monospace;
+  font-weight: bold;
+}
+.quatriement h1{  font-size: 1em;
+  font-family: 'Courier New', monospace;
+   display: grid;
+      text-align: center ;
+      background-color: #ebbcbc;
+      grid-template-rows: 3px 10px 20px;
+      font-weight: bold;
+     
+  }
